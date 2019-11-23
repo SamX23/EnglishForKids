@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Azzura English Learning</string>
+    <string name="action_close">Close</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="chick">Chicken</string>
+    <string name="cow">Cow</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="description">Description</string>
+    <string name="heroes_name">Heroes Name</string>
+    <string name="pahlawan">Pahlawan</string>
+</resources>
